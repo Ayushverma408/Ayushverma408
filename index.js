@@ -16,7 +16,7 @@ function generateProgressBar() {
 
 function generatechance() {
     const chance = Math.floor((Math.random() * 100) + 1);
-    return `{ ${chance} }`
+    return `${chance}`
 }
 
 const readme = `\
