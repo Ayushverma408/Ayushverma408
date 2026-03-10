@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Chances of you giving this repo a star are 48%
+Chances of you giving this repo a star are 10%
 
 
