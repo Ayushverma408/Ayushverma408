@@ -7,7 +7,7 @@ Currently experimenting with LLMs, RAG pipelines, and MCP integrations.
 ## Things I'm building
 
 - **Advanced RAG for Surgical Residents** — context-aware retrieval for medical knowledge bases
-- **Pinterest but for websites** - Vibecoding this Passion project. Pinterest for bookmarks, websites, articles
+- **Pinterest but for websites** - Passion project. Pinterest for bookmarks, websites, articles.
 - **LeetCode MCP Server** - Planned for later
 
 ## dotfiles
